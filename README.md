@@ -1,6 +1,6 @@
 # Build a Polygon Area  Calculator
 
-This project is part of a YouTube tutorial on the My Code Guide channel link to the chanel and link to the tutorial.
+This project is part of a YouTube tutorial on the My Code Guide channel link to the chanel and link to the [tutorial](https://youtu.be/N8YVluWJHuc).
 
 It walks through the freeCodeCamp (FCC) Python curriculum and shows how to Build a Polygon Area  Calculator step-by-step.
 
